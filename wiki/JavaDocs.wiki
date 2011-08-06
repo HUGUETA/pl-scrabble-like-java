@@ -1,0 +1,6 @@
+#summary JavaDocs
+#labels Phase-Design,JavaDoc
+
+= JavaDocs for the classes =
+
+http://code.google.com/p/pl-scrabble-like-java/source/browse/trunk/Scrabble/doc/index.html

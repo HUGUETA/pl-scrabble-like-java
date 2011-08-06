@@ -24,4 +24,4 @@ Java executable has been created using JSmooth http://jsmooth.sourceforge.net/
 
 == Image resources ==
 
-See [ImageResources Image Resources]
+This is going to be more developing class and I'm not an art creator I hope that colleagues from http://code.google.com/p/javaprojscrabble/ will not complain if I use their graphics:

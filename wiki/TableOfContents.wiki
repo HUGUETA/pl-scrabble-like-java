@@ -1,4 +1,4 @@
 #summary ToC for sidebar
 #labels Featured
 
-* [JavaDoc HTML JavaDocs]
+* [JavaDocs HTML JavaDocs]

@@ -1,4 +1,4 @@
 #summary ToC for sidebar
 #labels Featured
 
-* [JavaDocs HTML reference]
+* [Licenses]

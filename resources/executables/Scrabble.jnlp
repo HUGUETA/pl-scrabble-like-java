@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <jnlp 
   spec="1.5+" 
-  codebase="http://pl-scrabble-like-java.googlecode.com/files/" href="Scrabble.jnlp"> 
+  codebase="http://pl-scrabble-like-java.googlecode.com/svn/resources/executables/" href="Scrabble.jnlp"> 
   <information> 
     <title>Scrabble-like Java application</title> 
     <vendor>JaHa</vendor> 

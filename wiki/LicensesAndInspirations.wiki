@@ -25,3 +25,5 @@ Java executable has been created using JSmooth http://jsmooth.sourceforge.net/
 == Image resources ==
 
 This is going to be more developing class and I'm not an art creator I hope that colleagues from http://code.google.com/p/javaprojscrabble/ will not complain if I use their graphics:
+
+http://pl-scrabble-like-java.googlecode.com/svn/resources/files/J.PNG http://pl-scrabble-like-java.googlecode.com/svn/resources/files/A.PNG http://pl-scrabble-like-java.googlecode.com/svn/resources/files/R.PNG http://pl-scrabble-like-java.googlecode.com/svn/resources/files/E.PNG http://pl-scrabble-like-java.googlecode.com/svn/resources/files/K.PNG

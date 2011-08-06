@@ -1,13 +1,19 @@
-#summary One-sentence summary of this page.
+#summary 3rd party licenses and inspirations
 
-= Introduction =
+= 3rd party licenses and inspirations =
 
-Add your content here.
+== Lit ==
 
+My application was inspired by *Lit - program do gry w literaki* (_"Lit - an application to play Literaki /Scrabble-clone/"_) Original application has been developed for Windows and can be downloaded at http://marek01.pop.e-wro.pl/lit/
 
-= Details =
+Lit is available under GPL license.
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== SJP.pl dictionary ==
+
+Of course, each Scrabble application needs a dictionary. I'm using SJP.pl's dictionary available at http://www.sjp.pl/slownik/growy/
+
+SJP.pl's dictionary is available under GPL and CC SA licenses.
+
+== Eclipse ==
+
+Software was developed using Eclipse for Mac OS.

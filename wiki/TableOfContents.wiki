@@ -1,4 +1,5 @@
 #summary ToC for sidebar
 #labels Featured
 
-* [Licenses]
+* [LicensesAndInspirations]
+* [JavaDocs]

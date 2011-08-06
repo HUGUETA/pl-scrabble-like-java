@@ -21,3 +21,7 @@ Software was developed using Eclipse for Mac OS.
 == JSmooth ==
 
 Java executable has been created using JSmooth http://jsmooth.sourceforge.net/
+
+== Image resources ==
+
+See ImageResources

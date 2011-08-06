@@ -3,4 +3,4 @@
 
 = Java Docs for the classes =
 
-Standard JavaDocs-generated documentation can be found at [http://pl-scrabble-like-java.googlecode.com/svn/trunk/Scrabble/doc/index.html Java Docs].
+Standard Java Docs-generated documentation can be found at [http://pl-scrabble-like-java.googlecode.com/svn/trunk/Scrabble/doc/index.html source code repository].

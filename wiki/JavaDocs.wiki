@@ -1,6 +1,6 @@
 #summary JavaDocs
 #labels Phase-Design,JavaDoc
 
-= JavaDocs for the classes =
+= Java Docs for the classes =
 
 http://pl-scrabble-like-java.googlecode.com/svn/trunk/Scrabble/doc/index.html

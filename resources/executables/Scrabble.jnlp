@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<jnlp 
+  spec="1.5+" 
+  codebase="http://pl-scrabble-like-java.googlecode.com/files/" href="Scrabble.jnlp"> 
+  <information> 
+    <title>Scrabble-like Java application</title> 
+    <vendor>JaHa</vendor> 
+    <homepage href="http://code.google.com/p/pl-scrabble-like-java/"/> 
+    <offline-allowed/>
+    <shortcut>
+      <desktop/>
+    </shortcut>
+  </information> 
+  <resources> 
+    <j2se version="1.4+" java-vm-args="-Xmx400m"/> 
+    <jar href="Scrabble.jar"/> 
+  </resources> 
+  <application-desc main-class="pl.webd.jhartman.scrabble.gui.ScrabbleGUI">
+    <argument>gui</argument> 
+  </application-desc>
+</jnlp>

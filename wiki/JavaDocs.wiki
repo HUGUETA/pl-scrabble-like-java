@@ -3,4 +3,4 @@
 
 = JavaDocs for the classes =
 
-http://code.google.com/p/pl-scrabble-like-java/source/browse/trunk/Scrabble/doc/index.html
+http://pl-scrabble-like-java.googlecode.com/svn/trunk/Scrabble/doc/index.html

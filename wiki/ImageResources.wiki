@@ -1,6 +1,0 @@
-#summary Image resources
-#labels Phase-Design
-
-= Introduction =
-
-This is going to be more developing class and I'm not an art creator I hope that colleagues from http://code.google.com/p/javaprojscrabble/ will not complain if I use their graphics:
